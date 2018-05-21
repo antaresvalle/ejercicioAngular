@@ -1,0 +1,24 @@
+p {
+	background-color: salmon;
+	color: white;
+	padding: 2em;
+	font-size: 2em;
+}
+
+input {
+	font-size: 2em;
+}
+
+.cont-img {
+	width: 30%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+img {
+	width: 100%;
+	display: inline-block;
+	height: 90%;
+}
